@@ -44,7 +44,7 @@
       <div class="flex flex-row items-end h-full w-full px-4 mt-4">
         <div class="flex border-t border-gray-700 w-full py-4">
           <div class="flex items-center space-x-3 border-r border-gray-700 w-full">
-            <img class="object-cover h-14 w-14 h-8 border-2 border-white rounded-full" src="https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/92956305_2657214634604682_7735388051743965184_n.png?_nc_cat=103&ccb=1-3&_nc_sid=174925&_nc_ohc=RWyJbYkX2VYAX-FEsfA&_nc_ht=scontent-mad1-1.xx&oh=53f42958e8949b64f900ef839e384489&oe=60E7AB36" alt="profile users" loading="lazy" />
+            <img class="object-cover h-14 w-14 h-8 border-2 border-white rounded-full" src="https://icon-library.com/images/icon-profile/icon-profile-22.jpg" alt="profile users" loading="lazy" />
             <div class="">
               <p class="text-sm font-semibold tracking-wide text-black">
                 Author
